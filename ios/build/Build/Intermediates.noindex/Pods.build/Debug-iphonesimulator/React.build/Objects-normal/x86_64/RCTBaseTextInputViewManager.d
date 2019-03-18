@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.m \
+  /Users/fausto/Projects/coding/4linked-app/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/fausto/Projects/coding/4linked-app/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/fausto/Projects/coding/4linked-app/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/fausto/Projects/coding/4linked-app/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTFont.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/React/Views/RCTView.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/fausto/Projects/coding/4linked-app/node_modules/react-native/Libraries/Text/RCTConvert+Text.h

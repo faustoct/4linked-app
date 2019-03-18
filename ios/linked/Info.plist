@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>linked</string>
+	<string>4Linked</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -56,5 +56,27 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Allow 4Linked to access your calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow 4Linked to use the camera</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow 4Linked experiences to access your contacts</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow 4Linked to use your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Allow 4Linked to use your location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow 4Linked to use your location</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow 4Linked to access your microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Allow 4Linked to access your device's accelerometer</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Give 4Linked periences permission to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Give 4Linked periences permission to access your photos</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Allow 4Linked to access your reminders</string>
 </dict>
 </plist>

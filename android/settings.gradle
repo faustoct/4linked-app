@@ -1,3 +1,3 @@
-rootProject.name = 'x'
+rootProject.name = 'linked'
 
 include ':app'

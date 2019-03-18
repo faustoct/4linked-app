@@ -1,4 +1,4 @@
-package com.x;
+package com.linked;
 
 import android.app.Application;
 

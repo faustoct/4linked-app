@@ -17,6 +17,8 @@ PODS:
   - glog (0.3.5)
   - React (0.58.6):
     - React/Core (= 0.58.6)
+  - react-native-youtube (1.1.0):
+    - React
   - React/Core (0.58.6):
     - yoga (= 0.58.6.React)
   - React/CxxBridge (0.58.6):
@@ -88,6 +90,7 @@ DEPENDENCIES:
   - EXPermissions (from `../node_modules/expo-permissions/ios`)
   - Folly (from `../node_modules/react-native/third-party-podspecs/Folly.podspec`)
   - glog (from `../node_modules/react-native/third-party-podspecs/glog.podspec`)
+  - react-native-youtube (from `../node_modules/react-native-youtube`)
   - React/Core (from `../node_modules/react-native`)
   - React/CxxBridge (from `../node_modules/react-native`)
   - React/DevSupport (from `../node_modules/react-native`)
@@ -135,6 +138,8 @@ EXTERNAL SOURCES:
     :podspec: "../node_modules/react-native/third-party-podspecs/glog.podspec"
   React:
     :path: "../node_modules/react-native"
+  react-native-youtube:
+    :path: "../node_modules/react-native-youtube"
   UMBarCodeScannerInterface:
     :path: "../node_modules/unimodules-barcode-scanner-interface/ios"
   UMCameraInterface:
@@ -171,6 +176,7 @@ SPEC CHECKSUMS:
   Folly: de497beb10f102453a1afa9edbf8cf8a251890de
   glog: aefd1eb5dda2ab95ba0938556f34b98e2da3a60d
   React: 16c4fb7ce3fc30c041bce809ceae33bf57e7c142
+  react-native-youtube: 7ab01f1320b037d605e6c6ac9d59cc2b92091799
   UMBarCodeScannerInterface: f623227f2f6e8fa5c45fef1cc2b5ae200dd14918
   UMCameraInterface: 2a22ae5a2d4f710d617e3fd2c5c0511019aea1c7
   UMConstantsInterface: 9884d2a4a4563b20d7efbafba421151698dd8991
@@ -185,6 +191,6 @@ SPEC CHECKSUMS:
   UMTaskManagerInterface: c594f1584e28026f98cca344d10183f635896094
   yoga: 0885622311729a02c2bc02dca97167787a51488b
 
-PODFILE CHECKSUM: 844b426bfbcc82f0e087afabf238c97ed317e369
+PODFILE CHECKSUM: 8d5f4b1ccf96773d010be4ddb620e024391a680a
 
 COCOAPODS: 1.5.3

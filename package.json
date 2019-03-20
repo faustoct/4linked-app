@@ -6,9 +6,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "react-native-unimodules": "0.2.0",
     "react": "16.6.3",
-    "react-native": "0.58.6"
+    "react-native": "0.58.6",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-unimodules": "0.2.0",
+    "react-native-youtube": "^1.1.0"
   },
   "devDependencies": {
     "babel-jest": "24.1.0",

@@ -29,6 +29,8 @@ target 'linked' do
 
   use_unimodules!
 
+  pod 'react-native-youtube', :path => '../node_modules/react-native-youtube'
+
   target 'linkedTests' do
     inherit! :search_paths
   end
